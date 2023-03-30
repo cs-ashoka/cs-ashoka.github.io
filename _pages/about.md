@@ -70,7 +70,7 @@ comments: true
         <span class="author-description"> <br/> <b>Karan Kumar</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
+<!--
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/natashasobti.png" alt="Natasha Sobti">
@@ -147,7 +147,7 @@ comments: true
         <span class="author-description"> <br/> <b>Gautam Ahuja</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
+-->
 </div>
 
 <br/>
