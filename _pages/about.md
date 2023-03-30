@@ -59,11 +59,11 @@ comments: true
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/joymehtacrop.jpeg" alt="">
+        <img class="author-thumb" src="assets/images/joymehtacrop.jpeg" alt="Joy Mehta">
         <span class="author-description"> <br/> <b>Joy Mehta</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
+<!--
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/karankumarcrop.jpg" alt="Karan Kumar">
@@ -147,7 +147,7 @@ comments: true
         <span class="author-description"> <br/> <b>Gautam Ahuja</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
+-->
 </div>
 
 <br/>
