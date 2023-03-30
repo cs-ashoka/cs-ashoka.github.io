@@ -66,7 +66,7 @@ comments: true
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/karankumarcrop.png" alt="Karan Kumar">
+        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Karan Kumar">
         <span class="author-description"> <br/> <b>Karan Kumar</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
