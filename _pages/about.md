@@ -33,7 +33,7 @@ comments: true
 
 <h4>Our Team</h4>
 
-<h6> Senior Leadership </h6>
+<h5> Senior Leadership </h5>
 
 <div class="wrapper">
   <div class="one">
@@ -53,7 +53,9 @@ comments: true
 <br/>
 <br/>
 
-<h6> Members </h6>
+<h5> Departments </h5>
+
+<h6> Events </h6>
 
 <div class="wrapper">
 
