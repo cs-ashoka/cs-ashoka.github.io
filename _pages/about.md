@@ -38,14 +38,14 @@ comments: true
 <div class="wrapper">
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/rao.jpg" alt="Aakash Rao">
-        <span class="author-description"> <br/> <b>Aakash Rao</b> <br/> <font size="-1">President</font></span>
+        <img class="author-thumb" src="assets/images/nath.jpg" alt="Aryan Nath">
+        <span class="author-description"> <br/> <b>Aryan Nath</b> <br/> <font size="-1">President</font></span>
         </center>
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/medini.png" alt="Medini Chopra">
-        <span class="author-description"> <br/> <b>Medini Chopra</b> <br/> <font size="-1">President</font></span>
+        <img class="author-thumb" src="assets/images/agarwal.jpg" alt="Roshni Agarwal">
+        <span class="author-description"> <br/> <b>Roshni Agarwal</b> <br/> <font size="-1">President</font></span>
         </center>
   </div>
 </div>
