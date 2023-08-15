@@ -82,8 +82,6 @@ comments: true
         </center>
   </div>
 
-  <br/>
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/kaushik.png" alt="Vidur Kaushik">
@@ -104,8 +102,6 @@ comments: true
         <span class="author-description"> <br/> <b>Armaan Shah</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
-  <br/>
 
   <div class="one">
         <center>
@@ -147,8 +143,6 @@ comments: true
         <span class="author-description"> <br/> <b>Joy Mehta</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
-  <br/>
 
   <div class="one">
         <center>
