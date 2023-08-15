@@ -55,6 +55,8 @@ comments: true
 
 <h5> Departments </h5>
 
+<br/>
+
 <h6> Events </h6>
 
 <div class="wrapper">
@@ -80,6 +82,8 @@ comments: true
         </center>
   </div>
 
+  <br/>
+
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/kaushik.png" alt="Vidur Kaushik">
@@ -101,6 +105,8 @@ comments: true
         </center>
   </div>
 
+  <br/>
+
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/jalan.jpg" alt="Tanmay Jalan">
@@ -117,7 +123,7 @@ comments: true
 
   <br/>
   
- <h6> Outreach and Logistics </h6>
+<h6> Outreach and Logistics </h6>
 
 <div class="wrapper">
 
@@ -141,6 +147,8 @@ comments: true
         <span class="author-description"> <br/> <b>Joy Mehta</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
+
+  <br/>
 
   <div class="one">
         <center>
@@ -202,7 +210,6 @@ comments: true
         </center>
 
   </div>
--->
 </div>
 
 <br/>
@@ -220,7 +227,7 @@ comments: true
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/bagchi.png" alt="Rajat Varma">
-        <span class="author-description"> <br/> <b>Rajat Varma</b> <br/> <font size="-1">Former President</font></span>
+        <span class="author-description"> <br/> <b>Rajat Varma</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
 </div>
@@ -337,7 +344,6 @@ comments: true
             <a target="_blank" class="link-dark" href="{{ author.web }}"> Member Name </a>
     </div>
 </div>
--->
 
 <h4>Questions or bug reports?</h4>
 
