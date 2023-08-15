@@ -61,42 +61,42 @@ comments: true
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Joy Mehta">
-        <span class="author-description"> <br/> <b>Joy Mehta</b> <br/> <font size="-1"></font></span>
+        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Kahaan Shah">
+        <span class="author-description"> <br/> <b>Kahaan Shah</b> <br/> <font size="-1">Head of Department</font></span>
         </center>
   </div>
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Karan Kumar">
+        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Ayush Kishor">
         <span class="author-description"> <br/> <b>Karan Kumar</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
 <!--
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/natashasobti.png" alt="Natasha Sobti">
+        <img class="author-thumb" src="assets/images/natashasobti.png" alt="Mihir Aggarwal">
         <span class="author-description"> <br/> <b>Natasha Sobti</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/bhumikamittal.png" alt="Bhumika Mittal">
+        <img class="author-thumb" src="assets/images/bhumikamittal.png" alt="Vidur Kaushik">
         <span class="author-description"> <br/> <b>Bhumika Mittal</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/himangiparekh.png" alt="Himangi Parekh">
+        <img class="author-thumb" src="assets/images/himangiparekh.png" alt="Manya Garg">
         <span class="author-description"> <br/> <b>Himangi Parekh</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/aryannath.png" alt="Aryan Nath">
+        <img class="author-thumb" src="assets/images/aryannath.png" alt="Armaan Shah">
         <span class="author-description"> <br/> <b>Aryan Nath</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
@@ -110,44 +110,104 @@ comments: true
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/kahaanshahcrop.png" alt="Kahaan Shah">
+        <img class="author-thumb" src="assets/images/kahaanshahcrop.png" alt="Tanmay Jalan">
         <span class="author-description"> <br/> <b>Kahaan Shah</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/yogyasareencrop.png" alt="Yogya Sareen">
+        <img class="author-thumb" src="assets/images/yogyasareencrop.png" alt="Sivasanjai Ga">
         <span class="author-description"> <br/> <b>Yogya Sareen</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
+
+  <br/>
   
+ <h6> Outreach and Logistics </h6>
+
+<div class="wrapper">
+
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/shreychhabracrop.png" alt="Shrey Chhabra">
-        <span class="author-description"> <br/> <b>Shrey Chhabra</b> <br/> <font size="-1"></font></span>
+        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Himangi Parekh">
+        <span class="author-description"> <br/> <b>Kahaan Shah</b> <br/> <font size="-1">Head of Department: Outreach</font></span>
         </center>
   </div>
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/manyagarg.png" alt="Manya Garg">
-        <span class="author-description"> <br/> <b>Manya Garg</b> <br/> <font size="-1"></font></span>
+        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Malvika Choraria">
+        <span class="author-description"> <br/> <b>Karan Kumar</b> <br/> <font size="-1">Head of Department: Logistics</font></span>
+        </center>
+  </div>
+<!--
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/natashasobti.png" alt="Joy Mehta">
+        <span class="author-description"> <br/> <b>Natasha Sobti</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/pranitsinha.png" alt="Pranit Sinha">
-        <span class="author-description"> <br/> <b>Pranit Sinha</b> <br/> <font size="-1"></font></span>
+        <img class="author-thumb" src="assets/images/bhumikamittal.png" alt="Pranit Sinha">
+        <span class="author-description"> <br/> <b>Bhumika Mittal</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+  
+  <br/>
+  
+ <h6> Social Media and Marketing </h6>
+
+<div class="wrapper">
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Ananya RajGirish">
+        <span class="author-description"> <br/> <b>Kahaan Shah</b> <br/> <font size="-1">Head of Department</font></span>
         </center>
   </div>
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/gautamahujacrop.png" alt="Gautam Ahuja">
-        <span class="author-description"> <br/> <b>Gautam Ahuja</b> <br/> <font size="-1"></font></span>
+        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Diya Tripathi">
+        <span class="author-description"> <br/> <b>Karan Kumar</b> <br/> <font size="-1">Head of Department</font></span>
         </center>
+  </div>
+<!--
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/natashasobti.png" alt="Aditya Dogra">
+        <span class="author-description"> <br/> <b>Natasha Sobti</b> <br/> <font size="-1"></font></span>
+        </center>
+        
+   <br/>
+  
+ <h6> Finance </h6>
+
+<div class="wrapper">
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Natasha Sobti">
+        <span class="author-description"> <br/> <b>Kahaan Shah</b> <br/> <font size="-1">Head of Department</font></span>
+        </center>
+  </div>
+
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/joymehtacrop.png" alt="Ishan Pratap Singh">
+        <span class="author-description"> <br/> <b>Karan Kumar</b> <br/> <font size="-1"></font></span>
+        </center>
+  </div>
+<!--
+  <div class="one">
+        <center>
+        <img class="author-thumb" src="assets/images/natashasobti.png" alt="Anurav Singh">
+        <span class="author-description"> <br/> <b>Natasha Sobti</b> <br/> <font size="-1"></font></span>
+        </center>
+
   </div>
 -->
 </div>
@@ -160,26 +220,14 @@ comments: true
 <div class="dev-wrapper1">
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/soham.png" alt="Soham De">
-        <span class="author-description"> <br/> <b>Soham De</b> <br/> <font size="-1">Founding President</font></span>
+        <img class="author-thumb" src="assets/images/soham.png" alt="Bhumika Mittal">
+        <span class="author-description"> <br/> <b>Bhumika Mittal</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/bagchi.png" alt="Soham Bagchi">
-        <span class="author-description"> <br/> <b>Soham Bagchi</b> <br/> <font size="-1">Former President</font></span>
-        </center>
-  </div>
-  <div class="one">
-        <center>
-        <img class="author-thumb" src="assets/images/manish.png" alt="Manish Rajani">
-        <span class="author-description"> <br/> <b>Manish Rajani</b> <br/> <font size="-1"></font></span>
-        </center>
-  </div>
-  <div class="one">
-        <center>
-        <img class="author-thumb" src="assets/images/tanvi.png" alt="Tanvi Roy">
-        <span class="author-description"> <br/> <b>Tanvi Roy</b> <br/> <font size="-1"></font></span>
+        <img class="author-thumb" src="assets/images/bagchi.png" alt="Rajat Varma">
+        <span class="author-description"> <br/> <b>Rajat Varma</b> <br/> <font size="-1">Former President</font></span>
         </center>
   </div>
 </div>
