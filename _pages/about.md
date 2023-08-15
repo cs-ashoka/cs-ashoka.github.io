@@ -72,7 +72,7 @@ comments: true
         <span class="author-description"> <br/> <b>Ayush Kishor</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-<!--
+  
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/aggarwal.jpg" alt="Mihir Aggarwal">
@@ -134,7 +134,7 @@ comments: true
         <span class="author-description"> <br/> <b>Malvika Choraria</b> <br/> <font size="-1">Head of Department: Logistics</font></span>
         </center>
   </div>
-<!--
+  
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/mehta.HEIC" alt="Joy Mehta">
@@ -168,7 +168,7 @@ comments: true
         <span class="author-description"> <br/> <b>Diya Tripathi</b> <br/> <font size="-1">Head of Department</font></span>
         </center>
   </div>
-<!--
+  
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/dogra.png" alt="Aditya Dogra">
@@ -194,7 +194,7 @@ comments: true
         <span class="author-description"> <br/> <b>Ishan Pratap Singh</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-<!--
+
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/singh.jpeg" alt="Anurav Singh">
