@@ -44,7 +44,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/agarwal.jpg" alt="Roshni Agarwal">
+        <img class="author-thumb" src="assets/images/agarwal2.png" alt="Roshni Agarwal">
         <span class="author-description"> <br/> <b>Roshni Agarwal</b> <br/> <font size="-1">President</font></span>
         </center>
   </div>
@@ -55,61 +55,52 @@ comments: true
 
 <h5> Departments </h5>
 
-<br/>
-
 <h6> Events </h6>
 
 <div class="wrapper">
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/shah.png" alt="Kahaan Shah">
+        <img class="author-thumb" src="assets/images/shah2.png" alt="Kahaan Shah">
         <span class="author-description"> <br/> <b>Kahaan Shah</b> <br/> <font size="-1">Head of Department</font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/kishor.HEIC" alt="Ayush Kishor">
+        <img class="author-thumb" src="assets/images/kishor2.png" alt="Ayush Kishor">
         <span class="author-description"> <br/> <b>Ayush Kishor</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-  
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/aggarwal.jpg" alt="Mihir Aggarwal">
         <span class="author-description"> <br/> <b>Mihir Aggarwal</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/kaushik.png" alt="Vidur Kaushik">
+        <img class="author-thumb" src="assets/images/kaushik2.png" alt="Vidur Kaushik">
         <span class="author-description"> <br/> <b>Vidur Kaushik</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/garg.jpg" alt="Manya Garg">
         <span class="author-description"> <br/> <b>Manya Garg</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/armaanshah.jpeg" alt="Armaan Shah">
+        <img class="author-thumb" src="assets/images/armaanshah2.png" alt="Armaan Shah">
         <span class="author-description"> <br/> <b>Armaan Shah</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/jalan.jpg" alt="Tanmay Jalan">
+        <img class="author-thumb" src="assets/images/jalan2.png" alt="Tanmay Jalan">
         <span class="author-description"> <br/> <b>Tanmay Jalan</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/G A.png" alt="Sivasanjai GA">
@@ -117,33 +108,28 @@ comments: true
         </center>
   </div>
 
-  <br/>
-  
 <h6> Outreach and Logistics </h6>
 
 <div class="wrapper">
 
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/parekh.HEIC" alt="Himangi Parekh">
+        <img class="author-thumb" src="assets/images/parekh2.png" alt="Himangi Parekh">
         <span class="author-description"> <br/> <b>Himangi Parekh</b> <br/> <font size="-1">Head of Department: Outreach</font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/choraria.jpg" alt="Malvika Choraria">
         <span class="author-description"> <br/> <b>Malvika Choraria</b> <br/> <font size="-1">Head of Department: Logistics</font></span>
         </center>
   </div>
-  
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/mehta.HEIC" alt="Joy Mehta">
+        <img class="author-thumb" src="assets/images/mehta2.png" alt="Joy Mehta">
         <span class="author-description"> <br/> <b>Joy Mehta</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/sinha.jpg" alt="Pranit Sinha">
@@ -151,9 +137,7 @@ comments: true
         </center>
   </div>
   
-  <br/>
-  
- <h6> Social Media and Marketing </h6>
+<h6> Social Media and Marketing </h6>
 
 <div class="wrapper">
 
@@ -163,40 +147,34 @@ comments: true
         <span class="author-description"> <br/> <b>Ananya RajGirish</b> <br/> <font size="-1">Head of Department</font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/tripathi.png" alt="Diya Tripathi">
         <span class="author-description"> <br/> <b>Diya Tripathi</b> <br/> <font size="-1">Head of Department</font></span>
         </center>
   </div>
-  
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/dogra.png" alt="Aditya Dogra">
         <span class="author-description"> <br/> <b>Aditya Dogra</b> <br/> <font size="-1"></font></span>
         </center>
-        
-   <br/>
+  </div>      
   
- <h6> Finance </h6>
+<h6> Finance </h6>
 
 <div class="wrapper">
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/sobti.jpg" alt="Natasha Sobti">
         <span class="author-description"> <br/> <b>Natasha Sobti</b> <br/> <font size="-1">Head of Department</font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/pratap singh.jpg" alt="Ishan Pratap Singh">
         <span class="author-description"> <br/> <b>Ishan Pratap Singh</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/singh.jpeg" alt="Anurav Singh">
@@ -205,9 +183,6 @@ comments: true
 
   </div>
 </div>
-
-<br/>
-<br/>
 
 <h6> Advisory </h6>
 
@@ -229,115 +204,6 @@ comments: true
 <br/>
 <br/>
 
-<!--
-
-<div class="row post-top-meta">
-    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-    	<img class="author-thumb" src="assets/images/bagchi.png" alt="Soham Bagchi">
-    </div>
-    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-            <a target="_blank" class="link-dark" href="{{ author.web }}"> Soham Bagchi</a>
-            <span class="author-description">President</span>
-    </div>
-</div>
-
-<div class="row post-top-meta">
-    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-        <img class="author-thumb" src="assets/images/tanvi.png" alt="Tanvi Roy">
-    </div>
-    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-            <a target="_blank" class="link-dark" href="{{ author.web }}"> Tanvi Roy</a>
-            <span class="author-description">Head, Development and Machine Learning</span>
-    </div>
-</div>
-
-<div class="row post-top-meta">
-    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-        <img class="author-thumb" src="assets/images/manish.png" alt="Core Member Image">
-    </div>
-    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-            <a target="_blank" class="link-dark" href="{{ author.web }}"> Manish Rajani</a>
-            <span class="author-description">Head, CS Research</span>
-    </div>
-</div>
-
-<div class="row post-top-meta">
-    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-        <img class="author-thumb" src="assets/images/vibodh.png" alt="Core Member Image">
-    </div>
-    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-            <a target="_blank" class="link-dark" href="{{ author.web }}"> Vibodh Nautiyal</a>
-            <span class="author-description">Core, Data Structures and Algorithms</span>
-    </div>
-</div>
-
-<div class="row post-top-meta">
-    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-        <img class="author-thumb" src="assets/images/akshat.png" alt="Core Member Image">
-    </div>
-    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-            <a target="_blank" class="link-dark" href="{{ author.web }}"> Akshat Singh</a>
-            <span class="author-description">Core, Data Structures and Algorithms</span>
-    </div>
-</div>
-
-<div class="row post-top-meta">
-    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-        <img class="author-thumb" src="assets/images/soham.png" alt="Core Member Image">
-    </div>
-    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-            <a target="_blank" class="link-dark" href="{{ author.web }}"> Soham De</a>
-            <span class="author-description">Core, Development and Machine Learning</span>
-    </div>
-</div>
-
-
-
-<h6> Advisory </h6>
-
-<div class="row post-top-meta">
-    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-        {% if author.avatar %}
-                        <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                        {% else %}
-                        <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-        {% endif %}
-    </div>
-    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-            <a target="_blank" class="link-dark" href="{{ author.web }}"> Onish Garg </a>
-            <span class="author-description">Alumni, Currently: Google Inc.</span>
-    </div>
-</div>
-
-<div class="row post-top-meta">
-    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-        {% if author.avatar %}
-                        <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                        {% else %}
-                        <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-        {% endif %}
-    </div>
-    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-            <a target="_blank" class="link-dark" href="{{ author.web }}"> Archit Checker </a>
-            <span class="author-description">Ex: AmuseLabs</span>
-    </div>
-</div>
-
-
-<h6> Other Members </h6>
-
-<div class="row post-top-meta">
-    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
-        {% if author.avatar %}
-                        <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-                        {% else %}
-                        <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-        {% endif %}
-    </div>
-    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-            <a target="_blank" class="link-dark" href="{{ author.web }}"> Member Name </a>
-    </div>
-</div>
 
 <h4>Questions or bug reports?</h4>
 
