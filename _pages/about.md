@@ -58,7 +58,6 @@ comments: true
 <h6> Events </h6>
 
 <div class="wrapper">
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/shah2.png" alt="Kahaan Shah">
@@ -107,11 +106,11 @@ comments: true
         <span class="author-description"> <br/> <b>Sivasanjai GA</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
+</div>  
 
 <h6> Outreach and Logistics </h6>
 
 <div class="wrapper">
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/parekh2.png" alt="Himangi Parekh">
@@ -121,8 +120,7 @@ comments: true
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/choraria.jpg" alt="Malvika Choraria">
-        <span class="author-description"> <br/> <b>Malvika Choraria</b> <br/> <font size="-1">Head of Department: Logistics</font></span>
-        </center>
+        <span class="author-description"> <br/> <b>Malvika Choraria</b> <br/> <font size="-1">Head of Department: Logistics</font>
   </div>
   <div class="one">
         <center>
@@ -136,11 +134,11 @@ comments: true
         <span class="author-description"> <br/> <b>Pranit Sinha</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
+</div>  
   
 <h6> Social Media and Marketing </h6>
 
 <div class="wrapper">
-
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/rajgirish.png" alt="Ananya RajGirish">
@@ -158,7 +156,8 @@ comments: true
         <img class="author-thumb" src="assets/images/dogra.png" alt="Aditya Dogra">
         <span class="author-description"> <br/> <b>Aditya Dogra</b> <br/> <font size="-1"></font></span>
         </center>
-  </div>      
+  </div>
+</div>  
   
 <h6> Finance </h6>
 
@@ -180,26 +179,25 @@ comments: true
         <img class="author-thumb" src="assets/images/singh.jpeg" alt="Anurav Singh">
         <span class="author-description"> <br/> <b>Anurav Singh</b> <br/> <font size="-1"></font></span>
         </center>
-
   </div>
-</div>
+</div>  
 
 <h6> Advisory </h6>
 
 <div class="dev-wrapper1">
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/soham.png" alt="Bhumika Mittal">
+        <img class="author-thumb" src="assets/images/mittal.png" alt="Bhumika Mittal">
         <span class="author-description"> <br/> <b>Bhumika Mittal</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/bagchi.png" alt="Rajat Varma">
+        <img class="author-thumb" src="assets/images/varma.png" alt="Rajat Varma">
         <span class="author-description"> <br/> <b>Rajat Varma</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-</div>
+</div>  
 
 <br/>
 <br/>
