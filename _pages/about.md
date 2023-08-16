@@ -147,13 +147,13 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/tripathi.png" alt="Diya Tripathi">
+        <img class="author-thumb" src="assets/images/tripathi2.png" alt="Diya Tripathi">
         <span class="author-description"> <br/> <b>Diya Tripathi</b> <br/> <font size="-1">Head of Department</font></span>
         </center>
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/dogra.png" alt="Aditya Dogra">
+        <img class="author-thumb" src="assets/images/dogra2.png" alt="Aditya Dogra">
         <span class="author-description"> <br/> <b>Aditya Dogra</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
@@ -170,7 +170,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/pratap singh.jpg" alt="Ishan Pratap Singh">
+        <img class="author-thumb" src="assets/images/pratapsingh2.png" alt="Ishan Pratap Singh">
         <span class="author-description"> <br/> <b>Ishan Pratap Singh</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
