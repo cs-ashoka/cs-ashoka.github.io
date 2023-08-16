@@ -114,13 +114,13 @@ comments: true
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/parekh2.png" alt="Himangi Parekh">
-        <span class="author-description"> <br/> <b>Himangi Parekh</b> <br/> <font size="-1">Head of Department: Outreach</font></span>
+        <span class="author-description"> <br/> <b>Himangi Parekh</b> <br/> <font size="-1">Head of Department</font></span>
         </center>
   </div>
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/choraria.jpg" alt="Malvika Choraria">
-        <span class="author-description"> <br/> <b>Malvika Choraria</b> <br/> <font size="-1">Head of Department: Logistics</font>
+        <span class="author-description"> <br/> <b>Malvika Choraria</b> <br/> <font size="-1">Head of Department</font></span>
   </div>
   <div class="one">
         <center>
