@@ -193,7 +193,7 @@ comments: true
 
 <h6> Advisory </h6>
 
-<div class="dev-wrapper1">
+<div class="wrapper">
   <div class="one">
         <center>
         <img class="author-thumb" src="assets/images/mittal.png" alt="Bhumika Mittal">
