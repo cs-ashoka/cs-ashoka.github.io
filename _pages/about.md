@@ -106,7 +106,9 @@ comments: true
         <span class="author-description"> <br/> <b>Sivasanjai GA</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-</div>  
+</div>
+
+<br/>
 
 <h6> Outreach and Logistics </h6>
 
@@ -121,6 +123,7 @@ comments: true
         <center>
         <img class="author-thumb" src="assets/images/choraria.jpg" alt="Malvika Choraria">
         <span class="author-description"> <br/> <b>Malvika Choraria</b> <br/> <font size="-1">Head of Department</font></span>
+        </center>  
   </div>
   <div class="one">
         <center>
@@ -134,7 +137,9 @@ comments: true
         <span class="author-description"> <br/> <b>Pranit Sinha</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-</div>  
+</div> 
+
+<br/>
   
 <h6> Social Media and Marketing </h6>
 
@@ -157,7 +162,9 @@ comments: true
         <span class="author-description"> <br/> <b>Aditya Dogra</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-</div>  
+</div>
+
+<br/>
   
 <h6> Finance </h6>
 
@@ -180,7 +187,9 @@ comments: true
         <span class="author-description"> <br/> <b>Anurav Singh</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
-</div>  
+</div>
+
+<br/>
 
 <h6> Advisory </h6>
 
@@ -207,7 +216,3 @@ comments: true
 
 <p>Head over to our <a href="https://github.com/cs-ashoka/cs-ashoka.github.io">Github repository</a>!</p>
 
-
-</div>
-
-</div>
