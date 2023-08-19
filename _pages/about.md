@@ -66,13 +66,13 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/kishor2.png" alt="Ayush Kishor">
+        <img class="author-thumb" src="assets/images/ayush2.png" alt="Ayush Kishor">
         <span class="author-description"> <br/> <b>Ayush Kishor</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/aggarwal.jpg" alt="Mihir Aggarwal">
+        <img class="author-thumb" src="assets/images/mihir2.jpg" alt="Mihir Aggarwal">
         <span class="author-description"> <br/> <b>Mihir Aggarwal</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
@@ -84,7 +84,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/garg.jpg" alt="Manya Garg">
+        <img class="author-thumb" src="assets/images/manya2.jpg" alt="Manya Garg">
         <span class="author-description"> <br/> <b>Manya Garg</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
@@ -96,7 +96,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/jalan2.png" alt="Tanmay Jalan">
+        <img class="author-thumb" src="assets/images/tanmay2.png" alt="Tanmay Jalan">
         <span class="author-description"> <br/> <b>Tanmay Jalan</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
@@ -121,7 +121,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/choraria.jpg" alt="Malvika Choraria">
+        <img class="author-thumb" src="assets/images/malvika2.png" alt="Malvika Choraria">
         <span class="author-description"> <br/> <b>Malvika Choraria</b> <br/> <font size="-1">Head of Department</font></span>
         </center>  
   </div>
@@ -133,7 +133,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/sinha.jpg" alt="Pranit Sinha">
+        <img class="author-thumb" src="assets/images/pranit2.png" alt="Pranit Sinha">
         <span class="author-description"> <br/> <b>Pranit Sinha</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
@@ -158,7 +158,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/dogra2.png" alt="Aditya Dogra">
+        <img class="author-thumb" src="assets/images/aditya2.png" alt="Aditya Dogra">
         <span class="author-description"> <br/> <b>Aditya Dogra</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
@@ -183,7 +183,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/singh.jpeg" alt="Anurav Singh">
+        <img class="author-thumb" src="assets/images/anurav2.png" alt="Anurav Singh">
         <span class="author-description"> <br/> <b>Anurav Singh</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
@@ -193,10 +193,10 @@ comments: true
 
 <h6> Advisory </h6>
 
-<div class="dev-wrapper1">
+<div class="wrapper">
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/mittal.png" alt="Bhumika Mittal">
+        <img class="author-thumb" src="assets/images/bhumika2.png" alt="Bhumika Mittal">
         <span class="author-description"> <br/> <b>Bhumika Mittal</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
