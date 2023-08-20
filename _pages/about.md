@@ -72,7 +72,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/mihir2.jpg" alt="Mihir Aggarwal">
+        <img class="author-thumb" src="assets/images/mihir2.png" alt="Mihir Aggarwal">
         <span class="author-description"> <br/> <b>Mihir Aggarwal</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
@@ -84,7 +84,7 @@ comments: true
   </div>
   <div class="one">
         <center>
-        <img class="author-thumb" src="assets/images/manya2.jpg" alt="Manya Garg">
+        <img class="author-thumb" src="assets/images/manya2.png" alt="Manya Garg">
         <span class="author-description"> <br/> <b>Manya Garg</b> <br/> <font size="-1"></font></span>
         </center>
   </div>
