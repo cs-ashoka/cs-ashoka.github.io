@@ -3,7 +3,7 @@ layout: null
 sitemap: false
 ---
 
-{% assign counter = 0 %}
+var counter = 0;
 var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag' %}{% else %}{
     "id": {{ counter }},
     "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
@@ -32,7 +32,8 @@ var idx = lunr(function () {
 });
 function lunr_search(term) {
     document.getElementById('lunrsearchresults').innerHTML = '<ul></ul>';
-    if(term) {
+    var term = document.getElementById('searchTerm').value;
+    if (term) {
         document.getElementById('lunrsearchresults').innerHTML = "<p>Search results for '" + term + "'</p>" + document.getElementById('lunrsearchresults').innerHTML;
         //put results on the screen.
         var results = idx.search(term);
