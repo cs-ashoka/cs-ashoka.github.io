@@ -3,7 +3,7 @@ layout: null
 sitemap: false
 ---
 
-{% assign counter = 0 %}
+var counter = 0;
 var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag' %}{% else %}{
     "id": {{ counter }},
     "url": "{{ site.url }}{{site.baseurl}}{{ page.url }}",
@@ -32,7 +32,8 @@ var idx = lunr(function () {
 });
 function lunr_search(term) {
     document.getElementById('lunrsearchresults').innerHTML = '<ul></ul>';
-    if(term) {
+    var term = document.getElementById('searchTerm').value;
+    if (term) {
         document.getElementById('lunrsearchresults').innerHTML = "<p>Search results for '" + term + "'</p>" + document.getElementById('lunrsearchresults').innerHTML;
         //put results on the screen.
         var results = idx.search(term);
@@ -54,9 +55,10 @@ function lunr_search(term) {
     return false;
 }
 
-function lunr_search(term) {
-    $('#lunrsearchresults').show( 400 );
-    $( "body" ).addClass( "modal-open" );
+$(function() {
+ $("#lunrsearchresults") 
+    $('#lunrsearchresults').hide( 400 );
+    $("body").removeClass("modal-open");
     
     document.getElementById('lunrsearchresults').innerHTML = '<div id="resultsmodal" class="modal fade show d-block"  tabindex="-1" role="dialog" aria-labelledby="resultsmodal"> <div class="modal-dialog shadow-lg" role="document"> <div class="modal-content"> <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div> <div class="modal-body"> <ul class="mb-0"> </ul>    </div> <div class="modal-footer"><button id="btnx" type="button" class="btn btn-danger btn-sm" data-dismiss="modal">Close</button></div></div> </div></div>';
     if(term) {
